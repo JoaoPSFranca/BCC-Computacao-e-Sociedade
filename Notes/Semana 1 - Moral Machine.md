@@ -1,0 +1,3 @@
+A Moral Machine se trata de um experimento social produzido por um grupo de psicólogos pesquisadores do MIT. A ideia se baseia na dificuldade de dilemas morais, sobre o que um carro autônomo deveria fazer em determinadas situações.
+
+Os pesquisadores chegaram em dados que mostram que a cultura, localidade, classe social e algumas outras características do indivíduo, alteram de forma significativa o resultado do teste, possuindo uma grande variação da moral e da ética do indivíduo. 
